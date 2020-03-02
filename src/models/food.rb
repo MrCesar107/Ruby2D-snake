@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
 module Models
-  class Food # :nodoc:
+  class Food < Models::Coord # :nodoc:
   end
 end
